@@ -1,5 +1,13 @@
-d 'DEA': Data envelopment analysis
+d 'gencrm': Generalized Continuation Ratio Regression Models Use gencrm With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f gencrm.ado
+f gencrm.sthlp
+f gencrm_lf_c.ado
+f gencrm_lf_cf.ado
+f gencrm_lf_cfp.ado
+f gencrm_lf_cp.ado
+f gencrm_lf_f.ado
+f gencrm_lf_fp.ado
+f gencrm_lf_n.ado
+f gencrm_lf_p.ado
+f gencrm_p.ado
