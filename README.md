@@ -3,6 +3,8 @@ Generalized Continuation Ratio Regression Models Use gencrm With STATA 18
 
 Generalized Continuation Ratio Models Use gencrm With STATA 18
 
+https://www.youtube.com/watch?v=aqEsIs_wmk4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
